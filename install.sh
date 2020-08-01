@@ -1,3 +1,16 @@
+cyan='\e[0;36m'
+green='\e[0;32m'
+lightgreen='\e[1;32m'
+white='\e[1;37m'
+red='\e[1;31m'
+yellow='\e[1;33m'
+blue='\e[1;34m'
+#Options
+path=`pwd` # Path
+name="\e[1;34mch3r0" #Name
+VeR="\e[1;31mV1.0.1" # Version
+
+
 apt update
 apt install python-tk
 apt install dirb -y
@@ -49,4 +62,32 @@ cd /root/ && git clone https://github.com/Und3rf10w/kali-anonsurf")
 cd /root/kali-anonsurf && ./installer.sh")
 echo " Successfully Installed Some Modules "
 	
-
+echo -e $green "[*] Moving ch3r0 folder "
+mkdir /usr/share/ch3r0
+cp -r ico /usr/share/ch3r0
+cp -r core /usr/share/ch3r0
+cp -r modules /usr/share/ch3r0
+cp -r plugins /usr/share/ch3r0
+cp install.sh /usr/share/ch3r0
+cp requirements.txt /usr/share/ch3r0
+cp ch3r0.py /usr/share/ch3r0
+echo -e $blue "[ ✔ ]Done"
+echo -e $red "[*] Creating Icons Dirctory"
+cp -r $path/ico/ch3r0.desktop /usr/share/applications/ch3r0.desktop
+cp -r $path/ico/ch3r0.png /usr/share/icons/ch3r0.png
+echo -e $yellow "[*] Creating shortcut command $red ch3r0"
+echo "#!/bin/sh" >> /usr/bin/ch3r0
+echo "cd /usr/share/optiva" >> /usr/bin/ch3r0
+echo "exec python2 ch3r0.py \"\$@\"" >> /usr/bin/ch3r0
+chmod +x /usr/bin/ch3r0
+echo -e $green ""
+echo "------------------------------------" 
+echo "| [ ✔ ]installation completed[ ✔ ] |" 
+echo "------------------------------------" 
+echo
+echo -e $green "#####################################"
+echo -e $blue "|Now Just Type In Terminal (ch3r0)|"
+echo -e $green "#####################################"
+echo -e $green "【!】 Main Menu【!】"
+read -p "press any key to return ..."
+clear
