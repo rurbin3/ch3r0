@@ -1,3 +1,17 @@
+# bin/bash
+# created by cyberbyte
+# author :- sasank reddy 
+echo ""
+echo "                                                  .__    ________        _______  " 
+echo "                                             ____ |  |__ \_____  \______ \   _  \ " 
+echo "                                           _/ ___\|  |  \  _(__  <_  __ \/  /_\  \ "
+echo "					         \  \___|   Y  \/       \  | \/\  \_/   \ "
+echo "                                            \___  >___|  /______  /__|    \_____  / "
+echo "                                                \/     \/       \/              \/  "
+echo "                                    [✔] https://github.com/cyberbyte8869   [✔] "
+echo "                                    [✔]            Version 1.1.0           [✔] "
+echo "                                    [X]Please Don't Use For illegal Activity[X] "
+echo ""
 cyan='\e[0;36m'
 green='\e[0;32m'
 lightgreen='\e[1;32m'
@@ -9,7 +23,7 @@ blue='\e[1;34m'
 path=`pwd` # Path
 name="\e[1;34mch3r0" #Name
 VeR="\e[1;31mV1.0.1" # Version
-
+echo " $blue Installing some requirements "
 
 apt update
 apt install python-tk
