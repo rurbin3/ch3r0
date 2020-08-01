@@ -31,15 +31,15 @@ python main.py
 # ch3r0 frame-work
 
 
-the ch3r0 [new update] file will run the hackers-tool-kit with proxychains and other tools making you anonymous when hacking but some stuff might be slow or not work... to run ch3r0 look below
+the ch3r0 [new update] file will run the ch3r0 with proxychains and other tools making you anonymous when hacking but some stuff might be slow or not work... to run ch3r0 look below
 
-cd hackers-tool-kit
+cd ch3r0
 
-python htksecure.py
+python ch3r0s.py
 
 # UPDATES
 this is where i will try to put the most recent updates
 
-added a htk-lite option which runs my ch3r0 tool
+added a ch3r0-l option which runs my ch3r0 tool
 
 added a dns spoofing option
