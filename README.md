@@ -1,48 +1,17 @@
 # ch3r0
-                                                
-                                                                                                                       ::            .oxdddddxkOko;    ,ddddddddddl:;,.            ,ll;                                                                                                                     
-                                                                                                                      .dd.           .lddddddxxxxxd::::lddddddddddddl;.            lk:.                                                                                                                     
-                                                                                                                     ,oxo.           .lddddddddddddddddddddddddddddddo.            cd.                                                                                                                      
-                                                                                                                     ....            .ldddddoddddddddddddddddddodddddo.       ...  ..                                                                                                                       
-                                                                                                                                     .ldodoocllllodododdddolcllclododo.      'oxd'                                                                                                                          
-                                                                                                                         ..         .;ooccc'    .;loddddol:.    .:lddo.      .lol'                                                                                                                          
-                                                                                                                        .dl        .oOOl.         .lddddo'        ,odo.                                                                                                                                     
-                                                                                                                        .xo         ;oxo'.        .oddddo'        'odo'                                                                                                                                     
-                                                                                                                        .xo          .ldd;       .;oxdxxd:.       'dxo.                                                                                                                                     
-                                                                                                                        .;,          .oxdc'.    .lo;;;;;;oo.    .'cdxd'          ';.                                                                                                                        
-                                                                                                                       '' .'.         'cdxdc,,,,;oc      ;d:,,,,cdxdc,.      .:ccxO,.;,                                                                                                                     
-                                                                                                                       cl..ol;.        .oxdxxxdxdxc .,;. ;ddddxxxdxd,        .;;;;;:lkd.                                                                                                                    
-                                                                                                                     .:ol..oxdl;.       '''''lddddo:cdxl;lddddl,''''.      .,;;;;. lOkl.                                                                                                                    
-                                                                                                                     ;ddc..odddo'            ;ddddddddddddddddc.          ,cdddddl:oxdc.                                                                                                                    
-                                                                                                                     .'co:cooodo'            .'cdddoddddododl,.         ,codddooooodl'.                                                                                                                     
-                                                                                                                       .......;l,.  ;cc,     ';.'lc.,lo;.;l,.;,     ':ccooooo:.......                                                                                                                       
-                                                                                                                               .:o..:looccc'...  .   ..   .  ....clcoooll:...                                                                                                                               
-                                                                                                                                ck:...:cclooloc'..        ...:lloooccc.                                                                                                                                     
-                                                                                                                                ,ol:.    .::codoooc..    .:lodoc::'                                                                                                                                         
-                                                                                                                                             'coddddc..... '::,                                                                                                                                             
-                                                                                                                                               ,::coddddd:.'.            .,'                                                                                                                                
-                                                                                                                                           .''''. .,ldxxdxddo;''.       'cko.                                                                                                                               
-                                                                                                                            .:c:.      .',,cdxdxo:. .,;;;ldddddxl,,,.   ,lko.                                                                                                                               
-                                                                                                                            .;dOd:. ';,cdxdddddxo:.      .;lddddddxdc,;,. ,'                                                                                                                                
-                                                                                                                            .;;,;,..lxdddddxd:''.          .'';oxdddddxo.  .,;;.                                                                                                                            
-                                                                                                                          .,ldl;.  .cxdddc'..                  ...:ddddoc,  .'';llll:.                                                                                                                      
-                                                                                                                          .lddddl::coddc..                         .:doodoc::::,'''dd.                                                                                                                      
-                                                                                                                           .;odddddl'...                             ...cdddddd;   ..                                                                                                                       
-                                                                                                                          .:oodddoo:.                                   ;ooddddoc.                                                                                                                          
-                                                                                                                          .:oodooc.                                      .:loddoc.                                                                                                                          
-                                                                                                                            .:c:.                                          .:cc'                                                                                                                            
-                                                                                                                                                                                                                                                                                                            
-                                                                                                                                 
-                                                                                                                              ::::::::  :::    :::  ::::::::  :::::::::   :::::::  
-                                                                                                                             :+:    :+: :+:    :+: :+:    :+: :+:    :+: :+:   :+: 
-                                                                                                                             +:+        +:+    +:+        +:+ +:+    +:+ +:+  :+:+ 
-                                                                                                                             +#+        +#++:++#++     +#++:  +#++:++#:  +#+ + +:+ 
-                                                                                                                             +#+        +#+    +#+        +#+ +#+    +#+ +#+#  +#+ 
-                                                                                                                             #+#    #+# #+#    #+# #+#    #+# #+#    #+# #+#   #+# 
-                                                                                                                              ########  ###    ###  ########  ###    ###  #######  
-                                                                                                                                                                                                                           
-                                        
-                                    
+
+
+ ▄████▄   ██░ ██ ▓█████  ██▀███   ▒█████  
+▒██▀ ▀█  ▓██░ ██▒▓█   ▀ ▓██ ▒ ██▒▒██▒  ██▒
+▒▓█    ▄ ▒██▀▀██░▒███   ▓██ ░▄█ ▒▒██░  ██▒
+▒▓▓▄ ▄██▒░▓█ ░██ ▒▓█  ▄ ▒██▀▀█▄  ▒██   ██░
+▒ ▓███▀ ░░▓█▒░██▓░▒████▒░██▓ ▒██▒░ ████▓▒░
+░ ░▒ ▒  ░ ▒ ░░▒░▒░░ ▒░ ░░ ▒▓ ░▒▓░░ ▒░▒░▒░ 
+  ░  ▒    ▒ ░▒░ ░ ░ ░  ░  ░▒ ░ ▒░  ░ ▒ ▒░ 
+░         ░  ░░ ░   ░     ░░   ░ ░ ░ ░ ▒  
+░ ░       ░  ░  ░   ░  ░   ░         ░ ░  
+░                                                                                        
+                                               
 Its a framework filled with alot of options and hacking tools you use directly in the script from brute forcing to payload making.
 Im still trying to think of what to add to the script so you can also suggest me.
 I now have another tool out called ch3r0-l its lite version of ch3r0 just not as big and messy.
