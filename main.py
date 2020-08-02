@@ -13,7 +13,7 @@ logo = """\033[33m
                                                
                                                   .__    ________        _______   
                                              ____ |  |__ \_____  \______ \   _  \  
-                                           _/ ___\|  |  \  _(__  <_  __ \/  /_\  \ 
+                                           _/ ___\|  |  \  _(__  <_  __ \/  /_\  \
                                            \  \___|   Y  \/       \  | \/\  \_/   \
                                             \___  >___|  /______  /__|    \_____  /
                                                    \/     \/       \/              \/ 
@@ -59,7 +59,7 @@ class Main:
         [14] XSS Attack Tools
         [15] Steganography
         [16] More Tools 
-        [17] Update or Uninstall | Hackingtool
+        [17] Update or Uninstall | ch3r0
         [99] Exit
         """)
 
