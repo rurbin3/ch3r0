@@ -1,17 +1,6 @@
 # ch3r0
 
-
- ▄████▄   ██░ ██ ▓█████  ██▀███   ▒█████  
-▒██▀ ▀█  ▓██░ ██▒▓█   ▀ ▓██ ▒ ██▒▒██▒  ██▒
-▒▓█    ▄ ▒██▀▀██░▒███   ▓██ ░▄█ ▒▒██░  ██▒
-▒▓▓▄ ▄██▒░▓█ ░██ ▒▓█  ▄ ▒██▀▀█▄  ▒██   ██░
-▒ ▓███▀ ░░▓█▒░██▓░▒████▒░██▓ ▒██▒░ ████▓▒░
-░ ░▒ ▒  ░ ▒ ░░▒░▒░░ ▒░ ░░ ▒▓ ░▒▓░░ ▒░▒░▒░ 
-  ░  ▒    ▒ ░▒░ ░ ░ ░  ░  ░▒ ░ ▒░  ░ ▒ ▒░ 
-░         ░  ░░ ░   ░     ░░   ░ ░ ░ ░ ▒  
-░ ░       ░  ░  ░   ░  ░   ░         ░ ░  
-░                                                                                        
-                                               
+                                             
 Its a framework filled with alot of options and hacking tools you use directly in the script from brute forcing to payload making.
 Im still trying to think of what to add to the script so you can also suggest me.
 I now have another tool out called ch3r0-l its lite version of ch3r0 just not as big and messy.
