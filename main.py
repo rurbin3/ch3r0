@@ -2966,7 +2966,7 @@ class Main:
         self.clear_scr()
         print(self.logo +"""
              [1] Update Tool or System 
-             [2] Uninstall HackingTool
+             [2] Uninstall ch3r0
             [99] Back
         """)
 
@@ -2983,7 +2983,7 @@ class Main:
 
     def updatesys(self):
         self.clear_scr()
-        choice = input("[1]Update System [2]Update Hackingtool [99]Back >> ")
+        choice = input("[1]Update System [2]Update ch3r0 [99]Back >> ")
 
         self.check_input(choice, self.updatesys, ['1', '2', '99'])
 
@@ -2994,7 +2994,8 @@ class Main:
             self.updatesys()
 
         if choice == "2":
-            os.system("sudo chmod +x /etc/;sudo chmod +x /usr/share/doc;sudo rm -rf /usr/share/doc/hackingtool/;cd /etc/;sudo rm -rf /etc/hackingtool/;mkdir hackingtool;cd hackingtool;git clone https://github.com/ch3r0/hackingtool.git;cd hackingtool;sudo chmod +x install.sh;./install.sh")
+            print "this works mainly in debian-based systems"
+            os.system("sudo chmod +x /etc/;sudo chmod +x /usr/share/doc;sudo rm -rf /usr/share/doc/ch3r0/;cd /etc/;sudo rm -rf /etc/ch3r0/;mkdir ch3r0;cd ch3r0;git clone https://github.com/cyberbyte8869/ch3r0.git;cd hackingtool;sudo chmod +x install.sh;./install.sh")
             self.updatesys()
 
         if choice == "99":
@@ -3007,10 +3008,10 @@ class Main:
         self.check_input(choice, self.uninstall, ['1', '99'])
 
         if choice == "1":
-            print("hackingtool started to uninstall..\n")
+            print("ch3r0 started to uninstall..\n")
             sleep(1)
-            os.system("sudo chmod +x /etc/;sudo chmod +x /usr/share/doc;sudo rm -rf /usr/share/doc/hackingtool/;cd /etc/;sudo rm -rf /etc/hackingtool/;")
-            print("\nHackingtool Successfully Uninstall..")
+            os.system("sudo chmod +x /etc/;sudo chmod +x /usr/share/doc;sudo rm -rf /usr/share/doc/ch3r0/;cd /etc/;sudo rm -rf /etc/ch3r0/;")
+            print("\nch3r0 Successfully Uninstall..")
             print("Happy Hacking..!!")
             sleep(1)
             self.uninstall()
